@@ -23,6 +23,6 @@ img = qrcode.make(user)
 
 img.save("/storage/emulated/0/phishing_Qr.png")
 
-print(colored("\033[42m~Your Qr Code Created Successfully in Your Internal Storage\nFile Name:phishing_Qr.png\033[0m", attrs=["bold"]))
+print(colored("\033[42m~Your Qr Code Created Successfully in Your Internal Storage\nImg Name:phishing_Qr.png\033[0m", attrs=["bold"]))
 
 os.system("xdg-open https://youtube.com/@xerathil?si=ypSv6hyl4yJKGlTH")
