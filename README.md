@@ -19,5 +19,7 @@ pkg install libjpeg-turbo
 pip install --no-cache-dir --no-binary :all: Pillow
 ```
 <h2>Run Cmd</h2>
-```python ScanicToxin.py
+```
+python ScanicToxin.py
+
 ```
