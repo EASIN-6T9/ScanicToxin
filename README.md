@@ -10,8 +10,8 @@ pkg upgrade -y
 pkg install python -y
 pkg install python-pip
 pkg install git -y
-git clone https://github.com/ScanicToxin
-cd ScanicToxin
+git clone https://github.com/EASIN-6T9/ScanicToxin.git
+cd ScanicToxin 
 pip install termcolor
 pip install colorama
 pip install qrcode
