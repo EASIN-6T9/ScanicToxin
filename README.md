@@ -4,7 +4,7 @@ ScanicToxin is a Simple Qr Code Making Tool, Also You Can Make a Phishing Qr ima
 <h1>Installation ⚫</h1>
 
 ```
-termux-setup-tools
+termux-setup-storage
 pkg update -y
 pkg upgrade -y
 pkg install python -y
